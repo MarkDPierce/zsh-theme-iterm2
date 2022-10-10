@@ -1,0 +1,6 @@
+# Ignore all the things
+*
+# Just not these things
+!.zshrc
+!.gitignore
+!*/.oh-my-zsh/themes/shades-of-purple-mdp.zsh-theme
